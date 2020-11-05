@@ -119,7 +119,7 @@ USE_TZ = True
 
 
 
-AUTH_KEY = '297016AgI2VZ3qX5fa41111P1'
+AUTH_KEY = 'YOUR_KEY_HERE'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
